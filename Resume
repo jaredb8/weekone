@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<title>Resume for Jared Boisseranc</title>
+	</head>
+	<body>
+		<h1>Jared Boisseranc</h1>
+			<p>9910 198th St SE<br>
+			Snohomish, WA 98296</p>
+			<a href="www.facebook.com">Find me on Facebook!</a> 
+		<h2>Education</h2>
+			<p>University of Washington<br>
+			Department of Human Centered Design Engineering</p>
+		<h2>Work Experience</h2>
+			<ol>
+				<li>Groeneveld Dairy Farm</li>
+				<li>Evergreen State Fair Milking Parlor Supervisor
+				</li>
+			</ol>	
+		<h2>Volunteer Work</h2>
+			<ul>
+				<li>SPE Karts 2011-2013</li>
+				<li>Dairy Cattle 4-H Leader / Volunteer</li>
+				<li>Miracle League</li>
+			</ul>	
+		<h2>Extra Curriculars</h2>
+			<table>
+				<table border="1">
+				<tr>
+					<td>Baseball</td>
+				</tr>
+				<tr>
+					<td>Dairy Cattle 4-H</td>
+				</tr>
+				<tr>
+					<td>Sigma Phi Epsilon Fraternity</td>
+				</tr>
+				<tr>
+					<td>Church Youth Group</td>
+				</tr>
+				<tr>
+					<td>Golf</td>
+				</tr>
+			</table>
+		<h2>My Cow</h2>
+			<img src="Giddy.jpg" alt="My Cow">
+	</body>
+</html>
